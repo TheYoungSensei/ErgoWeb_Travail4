@@ -1,0 +1,60 @@
+\ifglsentryexists{RFE}{}%
+{%
+\gls@defglossaryentry{RFE}%
+{%
+name={RFE},%
+sort={RFE},%
+type={main},%
+first={Request For Enhancement\glsspace (RFE)},%
+firstplural={Request For Enhancements\glsspace (RFEs)},%
+text={RFE},%
+plural={RFEs},%
+description={Request For Enhancement},%
+descriptionplural={Request For Enhancement\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Request For Enhancement},%
+longplural={Request For Enhancements},%
+short={RFE},%
+shortplural={RFEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PointClick}{}%
+{%
+\gls@defglossaryentry{PointClick}%
+{%
+name={Point \& Click},%
+sort={Point \& Click},%
+type={main},%
+first={Pointer \& Cliquer \glsspace (Point \& Click)},%
+firstplural={Pointer \& Cliquer s\glsspace (Point \& Clicks)},%
+text={Point \& Click},%
+plural={Point \& Clicks},%
+description={Pointer \& Cliquer},%
+descriptionplural={Pointer \& Cliquer \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Pointer \& Cliquer},%
+longplural={Pointer \& Cliquer s},%
+short={Point \& Click},%
+shortplural={Point \& Clicks},%
+counter={page},%
+parent={},%
+%
+}%
+}%

@@ -1,0 +1,22 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation du site}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}URL}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Pr\IeC {\'e}sentation du site}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Techniques des cartes \IeC {\`a} trier}{3}{section.2}
+\contentsline {section}{\numberline {3}\IeC {\'E}valuation du site par les utilisateurs}{4}{section.3}
+\contentsline {section}{\numberline {4}Probl\IeC {\`e}mes ergonomiques importants}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}L'exp\IeC {\'e}rience utilisateur}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Contenu}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Mise en page}{5}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}L'utilisation des multim\IeC {\'e}dias }{5}{subsection.4.4}
+\contentsline {section}{\numberline {5}Transgression de r\IeC {\`e}gles ergonomiques}{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}R\IeC {\`e}gle 1:1 : Fournir du contenu utile }{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}R\IeC {\`e}gle 2:4 : R\IeC {\'e}duire la charge de travail de l'utilisateur}{8}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}R\IeC {\`e}gle 6:4 : Structurer pour faciliter les comparaisons}{12}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}R\IeC {\`e}gle 7:6 : Utiliser des labels d'onglets coh\IeC {\'e}rents}{14}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}R\IeC {\`e}gle 10:2 : Proposer des liens vers du contenu relatif}{15}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}R\IeC {\`e}gle 14:3 : S'assurer que les images ne ralentissent pas le t\IeC {\'e}l\IeC {\'e}chargement de la page}{16}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}R\IeC {\`e}gle 14:4 : Utiliser les vid\IeC {\'e}os, les animation et l'audio de mani\IeC {\`e}re sens\IeC {\'e}e}{18}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}R\IeC {\`e}gle 15:6 : Utiliser des casses diff\IeC {\'e}rentes dans la prose}{19}{subsection.5.8}
+\contentsline {subsection}{\numberline {5.9}R\IeC {\`e}gle 16:3 : S'assurer que l'information n\IeC {\'e}cessaire soit affich\IeC {\'e}e }{22}{subsection.5.9}
+\contentsline {section}{\numberline {6}Source}{23}{section.6}
